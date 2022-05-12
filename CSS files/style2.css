@@ -1,0 +1,64 @@
+a{
+	color:black;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a:hover.menu{
+	border-bottom: 3px solid #14b005;
+}
+
+.container{
+	width: 1000px;
+	border-radius: 15px;
+	background-color: white;
+	box-shadow: 0px 0px 8px grey;
+	padding:40px;
+	position: relative;
+}
+.container-center{
+	left:50%;
+	transform:translate(-50%,0%); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,40 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("otherbg.png");
+}
+.navbar {
+  overflow: hidden;
+  background-color: #096824;
+
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover{
+  background-color: #074619;
+}
+
+input{
+  height: 30px;
+  width: 250px;
+  border:1px solid;
+  text-indent: 10px;/*<!-- to start the first character away from the left margin-->*/
+  font-size: 18px;
+}
+input:focus{
+  border:1.5px solid #14b005 ;
+}
+input,button{
+  border-radius: 10px;
+  margin: 20px;
+  outline: none; /*<!--to remove the blue outline when we click on the input box-->*/
+}
+a { text-decoration: none; }
